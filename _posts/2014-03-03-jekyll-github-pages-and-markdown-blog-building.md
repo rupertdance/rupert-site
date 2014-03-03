@@ -16,11 +16,11 @@ share:
 
 The engine underneath is [jekyll](http://jekyllrb.com/) - a Ruby on Rails static website generator tool primarily used for blogs. It's also the default for GitHub Pages. 
 
-It's based on [So Simple Theme](http://mademistakes.com/articles/so-simple-jekyll-theme/), which is itself very awesome and explains clearly how to use. 
+It's based on the [So Simple Theme](http://mademistakes.com/articles/so-simple-jekyll-theme/), which is itself quite awesome and has some in-depth documentation to ease you in. 
 
 I fell back on [this handy tutorial from 24ways](http://24ways.org/2013/get-started-with-github-pages/) which was a good step by step for those not familiar with github pages and/or jekyll.
 
-I have this all hosted for free on **GitHub pages**. Which is *absurdly* good. It's free for all static content (no PHP etc), and has no real limit on anything.  
+I have this all hosted for free on **GitHub Pages**. Which is *absurdly* good. It's free for all static content (no PHP etc), and has no real limit on anything.  
 
 Feel free to see how it all works under the hood [on github](https://github.com/rupertdance/rupert-site).
 
@@ -30,7 +30,7 @@ I needed a way to structure and organise my web development endeavours that let 
 
 My criteria were:
 
-* Attractive, responsive, simple, elegant design (digital vanity, what can I say)
+* Attractive, responsive, simple, elegant design (digital vanity, what can I say).
 * Ease of use - not so much of set up but to actually author posts. It had to be *easy*, otherwise I'm less inclined to do it.
 * Some level of version control.
 * Free. I own the domain, that should be enough dammit!
