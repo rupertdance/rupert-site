@@ -27,6 +27,9 @@ I'm interseted in web development, the user experience and interface design, and
 * Content Management Systems
 * And all kinds of other tools, frameworks and structures that make the modern web go 'round
 
-#### Check me out [GitHub](github.com/rupertdance).
-#### Or on [Twitter](https://twitter.com/rupertdance). 
+###Talk to me
+
+Check me out [GitHub](github.com/rupertdance).
+Or on [Twitter](https://twitter.com/rupertdance). 
+Or email me at rupertd at gmail dot com.
 

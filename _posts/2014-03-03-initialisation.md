@@ -3,6 +3,7 @@ layout: post
 title: "Initialisation"
 modified: 2014-03-03 14:26:20 +1100
 tags: [meta, first]
+category: testing
 image:
   feature: 
   credit: 
