@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: rupertdance
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://rupertdance.com/rupert-site
+url:              rupertdance.com/rupert-site
 
 # Owner/author information
 owner:
