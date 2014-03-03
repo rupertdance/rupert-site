@@ -12,6 +12,6 @@ share:
 ---
 
 ### The beginning. Written in Markdown.
-Jekyll. Ruby. GitHub Pages. Markdown. So Simple Theme. Much to explain. 
+Jekyll. Ruby. GitHub Pages. Markdown. So Simple Theme. Much to explain. Very wow.
 
 #### brb

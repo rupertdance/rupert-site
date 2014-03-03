@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Jekyll, GitHub Pages and MarkDown blog building"
 modified: 2014-03-03 17:42:03 +1100
 tags: [jekyll, blog, meta, markdown]
