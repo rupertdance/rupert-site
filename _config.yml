@@ -12,11 +12,11 @@ owner:
   avatar:         bio-photo.jpg
   email:          rupertd@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        rupertdance
   facebook:       
-  github:         
+  github:         rupertdance
   stackexchange:  
-  linkedin:       
+  linkedin:       rupertdance
   instagram:      
   flickr:         
   tumblr:         
@@ -36,11 +36,8 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Folio
+    url: /folio/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Melbourne

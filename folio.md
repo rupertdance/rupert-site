@@ -1,12 +1,14 @@
 ---
 layout: page
-permalink: /about/
-title: I'm Rupert Dance
-tags: [rupert, meta, self, developer]
+permalink: /folio/
+title: Folio
+tags: [portfolio, folio, self, developer]
 modified: 2013-09-13
 image:
   feature: headerclouds_bw.jpg
 ---
+
+## Things I've done
 
 I'm a web/software developer from Melbourne, Australia.
 
@@ -26,4 +28,3 @@ I'm interseted in web development, the user experience and interface design, and
 * Git
 * Content Management Systems
 * And all kinds of other tools, frameworks and structures that make the modern web go 'round
-
