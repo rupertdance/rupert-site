@@ -5,7 +5,7 @@ title: Hi, I'm Rupert Dance
 tags: [rupert, meta, self, developer]
 modified: 2013-09-13
 image:
-  feature: headerclouds_bw.jpg
+  feature: nyc-small.png
 ---
 
 I'm a web/software developer from Melbourne, Australia.
@@ -14,9 +14,8 @@ I've a masters of computing (software engineering) from RMIT University and a pa
 
 > I’m passionate about web and mobile technology, and the user experience. I see a future of simple, intuitive technological integration with our lives that goes beyond what the smartphone has already achieved. I understand that a powerful technological tool is useless if it isn’t understood and enjoyed by its users.
 
-I'm interseted in web development, the user experience and interface design, and the mobile web.
 
-## I have skills
+## I have skills...
 
 * HTML and CSS
 * JavaScript, mostly client-side but I've dabbled in server-side (node.js) 
