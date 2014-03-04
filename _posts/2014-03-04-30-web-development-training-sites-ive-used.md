@@ -17,6 +17,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 
 ###General WebDev
 To be structured:
+
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 * [Learn CSS Layout](http://learnlayout.com/)
@@ -100,6 +101,7 @@ To be structured:
 
 ###To be categorised
 To be structured:
+
 * [Technolgy Tutorials - Beginner to Advanced: adding java compile/run scripts to TextWrangler](http://teklern.blogspot.com.au/2009/07/adding-java-compilerun-scripts-to.html)
 * [Developing Simple Java Programs](http://docs.cs.cf.ac.uk/notes/html/616/node2.html)
 * [Best Java editor??? - MacRumors Forums](http://forums.macrumors.com/showthread.php?t=466385)
