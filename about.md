@@ -5,7 +5,7 @@ title: Hi, I'm Rupert Dance
 tags: [rupert, meta, self, developer]
 modified: 2013-09-13
 image:
-  feature: nyc-small.png
+  feature: nyc-small.jpg
 ---
 
 I'm a web/software developer from Melbourne, Australia.
