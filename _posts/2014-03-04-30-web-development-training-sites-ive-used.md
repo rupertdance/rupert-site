@@ -16,7 +16,7 @@ share:
 This is a hopefully curated list of all the training and links I've used as I learn. Mostly web development, some general coding and programming and technology stuff. I'll try to give them some sort of 'usefulness ranking' to make this more...useful. Continually updated - because learning never ends at the pointy end of technology.
 
 ###General WebDev
-
+To be structured:
             [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
             [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
             [Learn CSS Layout](http://learnlayout.com/)
@@ -99,7 +99,7 @@ This is a hopefully curated list of all the training and links I've used as I le
             [50 Must-have plugins for extending Twitter Bootstrap | Tutorialzine](http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/)
 
 ###To be categorised
-
+To be structured:
             [Technolgy Tutorials - Beginner to Advanced: adding java compile/run scripts to TextWrangler](http://teklern.blogspot.com.au/2009/07/adding-java-compilerun-scripts-to.html)
             [Developing Simple Java Programs](http://docs.cs.cf.ac.uk/notes/html/616/node2.html)
             [Best Java editor??? - MacRumors Forums](http://forums.macrumors.com/showthread.php?t=466385)
@@ -117,7 +117,6 @@ This is a hopefully curated list of all the training and links I've used as I le
             [THE ADVANCED APES](http://www.theadvancedapes.com/)
             [Flickr: agatha sea&#39;s Photostream](http://www.flickr.com/photos/agatha-ate/)
             [Project Euler](http://projecteuler.net/)
-
-        [7 Ways to Level Up Your Sublime Text Editing - Jerod Santo](http://blog.jerodsanto.net/2012/08/7-ways-to-level-up-your-sublime-text-editing/)
+        	[7 Ways to Level Up Your Sublime Text Editing - Jerod Santo](http://blog.jerodsanto.net/2012/08/7-ways-to-level-up-your-sublime-text-editing/)
 
 Let me know if you have others that are worthy, or if you think some of these are terrible. 
