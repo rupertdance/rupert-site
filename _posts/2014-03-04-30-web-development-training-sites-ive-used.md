@@ -26,12 +26,14 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](http://www.regular-expressions.info/index.html)
 
 ----
+
 ##Learning to Code
 * [Learn to code Codecademy](http://www.codecademy.com/#!/exercises/0)
 * [Dash learning in browser](https://dash.generalassemb.ly/)
 * [Project Euler - good for practice](http://projecteuler.net)
 
 ----
+
 ##Meta Tech and Programming News and Opinion
 * [hacker news](https://news.ycombinator.com/)
 * [r/programming](http://www.reddit.com/r/programming/)
@@ -45,6 +47,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [_Madk comments on Veteran programmers: what projects did you work on as a novice that really that really brought your programming skills from an elementary level to something deeper?](http://www.reddit.com/r/learnprogramming/comments/1a17tq/veteran_programmers_what_projects_did_you_work_on/c8t9j4e)
 
 ----
+
 ##CSS/HTML Learning Resources
 * [Learn CSS Layout](http://learnlayout.com/)
 * [Cascading Style Sheets](http://www.reddit.com/r/css)
@@ -74,6 +77,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Get Started with Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/)
 
 ----
+
 ##JavaScript (and jQuery) Learning Resources
 * [Javascript Cheat Sheet OverAPI.com](http://overapi.com/javascript/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction)
@@ -97,6 +101,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Node.js tutorial for beginners - an introduction to Node.js with Express.js : webdev](http://www.reddit.com/r/webdev/comments/1yotid/nodejs_tutorial_for_beginners_an_introduction_to/)
 
 ----
+
 ##Angular JS Resources
 * [AngularJS — Superheroic JavaScript MVW Framework](http://angularjs.org/)
 * [Learn AngularJS this Weekend - @jhooks](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
@@ -107,6 +112,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Use AngularJS to Power Your Web Application - yearofmoo.com](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
 
 ----
+
 ##PHP
 * [Using Regular Expressions with PHP](http://webcheatsheet.com/php/regular_expressions.php)
 * [Learn php in Y Minutes](http://learnxinyminutes.com/docs/php/)
@@ -115,6 +121,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Laravel - The PHP framework for web artisans.](http://laravel.com/)
 
 ----
+
 ##General Web Resources/Tools
 * [Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS &amp; SSL Proxy / Reverse Proxy](http://www.charlesproxy.com/)
 * [How to transfer a domain from GoDaddy (Transfer to Namecheap) • Namecheap.com Knowledgebase](https://www.namecheap.com/support/knowledgebase/article.aspx/876/83/how-to-transfer-a-domain-from-godaddy)
@@ -122,6 +129,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 
 
 ----
+
 ##Development Environments, Text Editors and IDE's
 * [Tuts+ Premium Course: Perfect Workflow in Sublime Text 2 - Symbols](https://tutsplus.com/lesson/symbols/)
 * [Downloads – Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -133,11 +141,13 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Underscore.js](http://documentcloud.github.io/underscore/)
 
 ----
+
 ##Data and Databases
 * [SQL Quick Reference](http://www.w3schools.com/sql/sql_quickref.asp)
 * [MongoDB - flat file noSQL DB](http://www.mongodb.org/)
 
 ----
+
 ##Git and Version Control
 * [Git Cheat Sheet ♥ Scotch](http://scotch.io/bar-talk/git-cheat-sheet)
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
@@ -145,6 +155,7 @@ This is a hopefully curated list of all the training and links I've used as I le
 * [Proper Way To Use Git/GitHub - PHP System with Dev/Testing/Production servers - Stack Overflow](http://stackoverflow.com/questions/7575363/proper-way-to-use-git-github-php-system-with-dev-testing-production-servers)
 
 ----
+
 
 
 Let me know if you have others that are worthy, or if you think any of these are unworthy.
