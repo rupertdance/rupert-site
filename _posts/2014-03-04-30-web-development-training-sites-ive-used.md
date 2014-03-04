@@ -7,6 +7,7 @@ image:
   feature: 
   credit: 
   creditlink: 
+thumb: oldbio-photo.jpg
 comments: true
 share: 
 ---
