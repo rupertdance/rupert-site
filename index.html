@@ -7,6 +7,13 @@ image:
   feature: nyc-small.jpg
 ---
 
+{{ post.description }}
+<ul class="post-list">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
+
 I'm a web/software developer from Melbourne, Australia.
 
 I've a masters of computing (software engineering) from RMIT University and a passion for software, technology, design and the future. I was formerly an urban planner/designer at a private consultancy who left to join the tech world. 
@@ -30,10 +37,3 @@ I've a masters of computing (software engineering) from RMIT University and a pa
 Check me out [GitHub](github.com/rupertdance).
 Or on [Twitter](https://twitter.com/rupertdance). 
 Or email me at rupertd at gmail dot com.
-
-{{ post.description }}
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
