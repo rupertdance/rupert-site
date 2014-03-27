@@ -28,7 +28,7 @@ I have a masters of computing (software engineering) from RMIT University and a 
 
 ###Talk to me
 
-Check me out [GitHub](github.com/rupertdance).
+Check me out [GitHub](https://github.com/rupertdance).
 Or on [Twitter](https://twitter.com/rupertdance). 
 Or email me at rupertd at gmail dot com.
 
